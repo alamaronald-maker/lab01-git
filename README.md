@@ -2,3 +2,6 @@
 # Lab 01 - Control de Versiones con Git
 
 Proyecto del Laboratorio 01 del curso.
+## Autor
+
+Jose Ronald Alama Rodriguez - Laboratorio 01
